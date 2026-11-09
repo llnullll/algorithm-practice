@@ -1,1 +1,2 @@
-﻿# Algorithm Practice локально
+# Algorithm Practice на GitHub
+Локально я добавляю учебные алгоритмы.
